@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+#openModal{
+	border:1px solid black;
+	border-radius:5px;
+}
+.modal-content{
+	border:1px solid black;
+	border-radius:5px;
+}
+.modal-header{
+	border:1px solid black;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	background-color:lightcyan;
+}
+.modal-body{
+	border:1px solid black;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:blue;
+}
